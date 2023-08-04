@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CurseForgeModpackBuilder": {
+      "commandName": "Project",
+      "commandLineArgs": "manifest.json"
+    }
+  }
+}
